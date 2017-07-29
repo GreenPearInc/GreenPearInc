@@ -6,6 +6,9 @@
  * Twitter: @3rdwave_themes
 */
 
+/* ========= Scroll =============*/
+
+
 /* =======Personalizado ======== */
 #logo{
   width: 455px;
@@ -60,7 +63,7 @@ width:100px;
 height:100px;
 border-radius:50%;
 overflow:hidden;
-
+background: transparent;
 /*background:#e4e4e4;*/
 position:relative;
 float:left;
@@ -179,7 +182,7 @@ animation:iconjump 2s infinite;
 body {
   font-family: 'Roboto', arial, sans-serif;
   color: #444;
-  font-size: 16px;
+  font-size: 16px;  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
