@@ -15,12 +15,19 @@ $(document).ready(function() {
              $('#header').addClass('scrolled');
              $('#img-logo').show();
              $('#text-logo').css('padding-top','5px'); 
+             $('li.nav-item>a').css('color','#666'); 
+             $('li.nav-item>a.active').css('color','#96a94b');
+             $('li.nav-item>a').css('padding-top','0px');
 
          }
          else {
              $('#header').removeClass('scrolled');
              $('#img-logo').hide();
              $('#text-logo').css('padding-top','23px');
+             $('li.nav-item>a').css('color','#fff');
+             $('li.nav-item>a.active').css('color','#96a94b');
+             //acomodar items del navbar
+             $('li.nav-item>a').css('padding-top','15px');
 
 
          }

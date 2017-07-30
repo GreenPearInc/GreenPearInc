@@ -7,7 +7,7 @@
 */
 
 /* ========= Scroll =============*/
-  .menu {
+  /*.menu {
       width: 100%;
       height: 75px;
       background-color: rgba(0, 0, 0, 1);
@@ -17,8 +17,8 @@
       -moz-transition: all 0.4s ease;
       -o-transition: all 0.4s ease;
       transition: all 0.4s ease;
-  }
-  .light-menu {
+  }*/
+  /*.light-menu {
       width: 100%;
       height: 75px;
       background-color: rgba(255, 255, 255, 1);
@@ -28,17 +28,19 @@
       -moz-transition: all 0.4s ease;
       -o-transition: all 0.4s ease;
       transition: all 0.4s ease;
-  }
-  #menu-center {
+  }*/
+  /*#menu-center {
       width: 980px;
       height: 75px;
       margin: 0 auto;
-  }
-  #menu-center ul {
+  }*/
+  /*#menu-center ul {
       margin: 0 0 0 0;
-  }
+  }*/
+  
+
   #menu-center ul li a{
-          padding: 32px 40px;
+          padding: 10px 15px;
   }
   #menu-center ul li {
       list-style: none;
@@ -47,24 +49,32 @@
 
   }
   .active, #menu-center ul li a:hover  {
-      font-family:'Droid Sans', serif;
-      font-size: 14px;
+      /*font-family:'Droid Sans', serif;
+      font-size: 14px;*/
       color: #96a94b;
-      text-decoration: none;
+      font-weight: bold;
+      /*text-decoration: none;
       line-height: 50px;
       background-color: rgba(0, 0, 0, 0.12);
-      padding: 32px 40px;
+      padding: 32px 40px;*/
+
 
   }
-  a {
+  /*a {
       font-family:'Droid Sans', serif;
       font-size: 14px;
-      color: #fff;
+      /*color: #fff;
       text-decoration: none;
       line-height: 72px;
-  }
+  }*/
  
 /* =======Personalizado ======== */
+
+li.nav-item>a{
+    color: #fff;
+    padding-top: 0px; 
+  }
+
 #logo{
   width: 455px;
   height: 195px;
@@ -76,6 +86,7 @@ img.img-responsive{
 }
 
 h2.title.text-center{
+  margin-top: 20px;
   padding-top: 80px;
 }
 
@@ -87,9 +98,7 @@ p.intro{
   letter-spacing: 0px;
 }
 
-a.text-logo{
-  padding-top: 0px;
-}
+
 
 /* ======= Hover Redes Sociales ============*/
 
@@ -371,7 +380,7 @@ select {
   -webkit-appearance: none;
 }
 #topcontrol {
-  background: #5d80a1;
+  background: #96a94b;
   color: #fff;
   text-align: center;
   display: inline-block;
@@ -416,7 +425,7 @@ select {
   top: 0;
 }
 .header.scrolled .main-nav .nav .nav-item a {
-  /*color: #666;**/
+  color: #666;
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
@@ -3293,7 +3302,7 @@ select {
     position: relative;
   }
   .blog-page .header-blog .main-nav .nav .nav-item a {
-    color: #fff;
+    color: #333;
   }
   .blog-page .header h1.logo {
     float: left;
@@ -3522,7 +3531,7 @@ select {
     padding-top: 5px;
   }
   .header.scrolled .main-nav .nav .nav-item a {
-    /*color: #666;**/
+    color: #666;
     -webkit-opacity: 1;
     -moz-opacity: 1;
     opacity: 1;
