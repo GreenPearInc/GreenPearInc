@@ -88,6 +88,11 @@
 .li_eye:before {
  content:"\e013";
 }
+
+.li_graduation:before {
+ content:"\f19d";
+}
+
 .li_bubble:before {
  content:"\e014";
 }
