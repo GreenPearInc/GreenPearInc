@@ -1,0 +1,76 @@
+[33mcommit e270e7ea58f3db8dddee8263e7fba40c61d32221[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Sat Aug 5 01:18:25 2017 -0500
+
+    Se elimina la leyenda we take care en Conocenos en el index
+
+[33mcommit b3bd7adf957565755cc3f2bc6caaccf69de26343[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Sat Aug 5 01:12:03 2017 -0500
+
+    Versión previa antes de subir
+
+[33mcommit 7a47adbfa4e37f05b278a2bb46db84cc11cad5d5[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Fri Aug 4 23:17:48 2017 -0500
+
+    Version de prueba antes de subir a la pagina
+
+[33mcommit 504d4928e6bd05673bb40d273dee6eada94ae2f2[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Fri Aug 4 22:42:35 2017 -0500
+
+    Se agrega informacion en la parte de conocenos
+
+[33mcommit 27d205d50a36357a6c0ba6103b05e63f49f9a4fe[m[33m ([m[1;32mscroll[m[33m)[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 21:29:01 2017 -0500
+
+    Se ha terminado de arreglar el navbar
+
+[33mcommit 18d4d2bc45c44ad88b863d0a709f97b9a18930e1[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 17:59:44 2017 -0500
+
+    Se mejoro el color de las letras del navbar
+
+[33mcommit d3e4cb238e404eaf80050d507d8c6ccb4560957e[m
+Author: Josue <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 17:37:52 2017 -0500
+
+    Avance sombreo. Faltadaptar la barra
+
+[33mcommit ace5a627c884e4004e8a4115b2eeb2c127fe5b7b[m
+Author: josuegr-greenpear <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 11:25:49 2017 -0500
+
+    Ultima version estable
+
+[33mcommit 9444efbd9c67d3ff50cdef02118d7d7d8c41a4ac[m
+Author: josuegr-greenpear <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 10:02:20 2017 -0500
+
+    Ultima version de Green Pear Site.
+
+[33mcommit 71d50286a17c7c44b8889eacd95bf555efbcd5d8[m
+Author: josuegr-greenpear <josue.garcia@greenpearinc.com>
+Date:   Sat Jul 29 09:54:30 2017 -0500
+
+    Vaciado de master
+
+[33mcommit 042bcc52f3259418241bb6f1878babaa2bc5ecfd[m
+Author: Daniel Alejandro Alfaro Quintanar <alejandro.alfaro.quintanar@gmail.com>
+Date:   Sun Jul 23 12:33:35 2017 -0500
+
+    Cambios de imagen v1
+    
+    Se añadio una preview del site, sin embargo esta simplemente es visual
+    pues aun no añade funcionalidad
+
+[33mcommit d2411002d0ff2d0318c459f13154933a7e115550[m
+Author: Daniel Alejandro Alfaro Quintanar <alejandro.alfaro.quintanar@gmail.com>
+Date:   Fri Jul 21 23:25:08 2017 -0500
+
+    Primer Commit de la plantilla
+    
+    Este es el primer contenido a trabajar de la plantilla.
