@@ -247,7 +247,7 @@
                                     <li>Responsabilidad y compromiso</li>
                                     <li>Solidaridad</li>
                                     <li>Servicio</li>
-                                    <li>Innovación</li>
+                                    <li</li>
                                 </ul>
 							</div>
 						</div>
