@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Green Pear</title>
+	<title>Green Pear Inc</title>
 	<meta name="description" content="Onepage Parallax Site"/>
 	<meta name="keywords" content="onepage, parallax"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
