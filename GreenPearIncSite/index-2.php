@@ -611,14 +611,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="text-right scroll-in-animation" data-animation="fadeInLeft">
-                                        <!-- <p class="big-font uppercase">
-                                                Tel: <strong class="highlight">+7 (781) 503-1810</strong>
-                                        </p>
-                                        <p class="big-font uppercase">
-                                                500 Unicorn Park Dr, 21st Floor
-                                                <br/> Woburn, MA 01801, United States
-                                        </p>
-                                    -->
+
                                     <p class="big-font">
                                         <b>
                                             <a href="mailto:info@ouraddress.com">contacto@greenpearinc.com</a><br/>
@@ -634,7 +627,8 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="text-left scroll-in-animation" data-animation="fadeInRight">
-                                    <form class="ajax-form" data-message-class="colors-e background-95 border heading" action="http://skrollex.x40.ru/theme-suzi/contact.php" method="post" novalidate="novalidate">
+                                    <!--<form class="ajax-form" data-message-class="colors-e background-95 border heading" method="post" action="sendbymail.php">-->
+                                    <form method="post" action="enviarcorreo.php">
                                         <div class="row">
                                             <div class="col-md-6 control-group">
                                                 <div class="alt-placeholder">Nombre</div>
@@ -648,7 +642,7 @@
                                             </div>
                                             <div class="col-md-12 control-group">
                                                 <div class="alt-placeholder">Teléfono</div>
-                                                <input type="text" name="your-name" value size="40" placeholder="Teléfono" data-validation-required-message="Por favor llene este campo." required>
+                                                <input type="text" name="your-phone" value size="40" placeholder="Teléfono" data-validation-required-message="Por favor llene este campo." required>
                                                 <div class="help-block"></div>
                                             </div>
                                             <div class="col-md-12 control-group">
@@ -659,14 +653,14 @@
                                             <div class="col-md-12 form-actions">
                                                 <input class="button" type="submit" value="Enviar">
                                             </div>
+
                                         </div>
                                     </form>
+                                   
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="text-center">
-                                <a class="map-open button background-lite-b border-heading-b heading-b" data-map-overlay=".map-overlay" href="#">Locate Us on Map</a>
-                        </div> -->
+
                     </div>
                 </div>
             </div>

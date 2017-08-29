@@ -634,7 +634,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="text-left scroll-in-animation" data-animation="fadeInRight">
-                                    <form class="ajax-form" data-message-class="colors-e background-95 border heading" action="http://skrollex.x40.ru/theme-suzi/contact.php" method="post" novalidate="novalidate">
+                                    <form method="post" action="enviarcorreo.php">
                                         <div class="row">
                                             <div class="col-md-6 control-group">
                                                 <div class="alt-placeholder">Nombre</div>
@@ -648,7 +648,7 @@
                                             </div>
                                             <div class="col-md-12 control-group">
                                                 <div class="alt-placeholder">Teléfono</div>
-                                                <input type="text" name="your-name" value size="40" placeholder="Teléfono" data-validation-required-message="Por favor llene este campo." required>
+                                                <input type="text" name="your-phone" value size="40" placeholder="Teléfono" data-validation-required-message="Por favor llene este campo." required>
                                                 <div class="help-block"></div>
                                             </div>
                                             <div class="col-md-12 control-group">
